@@ -40,7 +40,7 @@ __Availables Features__
   
   
 ## 📷 Demo  
-![Demo Image](https://github.com/X3rox38/IP-Analyzer/blob/main/legif.gif)  
+![Demo Image](https://github.com/X3rox38/IP-Analyzer/blob/main/img/legif.gif)  
  
    
   
