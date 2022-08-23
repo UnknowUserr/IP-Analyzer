@@ -9,7 +9,7 @@ os.system("cls")
 
 try:
 	import requests, animation, time
-	from pystyle import *
+	from pystyle import Anime, Colors, Center, System, Write, Colorate
 except ModuleNotFoundError:
 	print("An error has been detected...")
 
