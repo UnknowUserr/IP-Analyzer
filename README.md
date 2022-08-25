@@ -52,7 +52,7 @@ Github: https://github.com/X3rox38
 
 ##  📚 Contributions  
   All suggestions are welcome.
-  Special thanks to [Kaneiki Web](https://github.com/KanekiWeb) for the readme template
+  Special thanks to [!& Paradox](https://github.com/KanekiWeb) for the readme template
   
   
   
