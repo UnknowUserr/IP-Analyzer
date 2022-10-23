@@ -19,10 +19,6 @@ os.system("cls")
 p = "IP Analyzer"
 Anime.Fade(text=Center.Center(p), color=Colors.black_to_green, mode=Colorate.Vertical, time=3)
 
-"""
-@author: ! Xerox ' ✞#8329
-"""
-
 ip = Write.Input("Adresse IP -> ", Colors.green, interval=0.002, input_color=Colors.white)
 
 def Xerox():
