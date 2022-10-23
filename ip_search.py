@@ -62,6 +62,6 @@ def dl():
     elif do == "n":
         print("")
 
-
-Xerox()
-dl()
+if __name__ == '__main__':
+	Xerox()
+	dl()
