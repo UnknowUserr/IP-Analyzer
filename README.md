@@ -53,15 +53,3 @@ Github: https://github.com/X3rox38
 ##  📚 Contributions  
   All suggestions are welcome.
   Special thanks to [KanekiWeb](https://github.com/KanekiWeb) for the readme template
-  
-  
-  
-  
-
-   
-    
-   
-  
-
-### 📜 License
-IP Analyzer is under licensed MIT [MIT License](https://github.com/AkaDevloppement/CFX-Resolver-Bot/blob/main/LICENSE).
